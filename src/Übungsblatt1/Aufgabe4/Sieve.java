@@ -15,7 +15,6 @@ public class Sieve {
     }
     return result;
   }
-  //Sinnvoller Kommmentar
   static List<Integer> primesUpTo(int n){
     List<Integer> result = new LinkedList<>();
     boolean[] sieve = sieve(n);
