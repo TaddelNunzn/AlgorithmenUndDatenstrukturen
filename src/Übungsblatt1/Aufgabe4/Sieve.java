@@ -1,5 +1,6 @@
 package Übungsblatt1.Aufgabe4;
 
+import java.sql.SQLOutput;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -27,5 +28,6 @@ public class Sieve {
 
   public static void main(String[] args) {
     System.out.println(2&1);
+    System.out.println(5);
   }
 }
