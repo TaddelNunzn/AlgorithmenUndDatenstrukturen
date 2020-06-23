@@ -1,10 +1,8 @@
-package Übungsblatt7.Aufgabe2;
+package Übungsblatt8.Aufgabe2;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertEquals;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import org.junit.Test;
 
 public class BinTreeTest {
