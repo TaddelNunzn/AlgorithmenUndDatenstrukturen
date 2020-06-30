@@ -1,7 +1,5 @@
-package Übungsblatt7.Aufgabe2;
+package Übungsblatt8.Aufgabe2;
 
-
-import com.sun.source.tree.BinaryTree;
 
 public class BinTree {
 
