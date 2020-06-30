@@ -7,7 +7,7 @@ public class Trie {
 	static class TrieNode {
 		
 		public void add(char c, int count) {
-			count+=c;// FIXME
+			// FIXME
 		}
 		
 		public TrieNode get(char c) {
