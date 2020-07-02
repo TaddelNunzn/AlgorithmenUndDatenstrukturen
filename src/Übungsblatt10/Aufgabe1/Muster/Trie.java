@@ -1,9 +1,7 @@
-package Übungsblatt10.Aufgabe1;
+package Übungsblatt10.Aufgabe1.Muster;
 
 import java.io.*;
 import java.util.LinkedList;
-import java.util.Spliterator;
-import java.util.function.Consumer;
 import java.util.stream.Stream;
 
 public class Trie {
